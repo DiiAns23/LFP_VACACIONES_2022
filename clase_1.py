@@ -1,3 +1,4 @@
+# Ejemplos de la Clase 1
 # Esto nos sirver para realizar comentarios
 
 # Para imprimir en pantalla usamos la función print
