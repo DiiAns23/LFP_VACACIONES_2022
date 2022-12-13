@@ -1,0 +1,10 @@
+afd1
+A,B,C
+0,1
+A
+C
+["A,0,B","B,1,A"]
+
+Origen
+Alfabeto
+Destino
